@@ -1,0 +1,10 @@
+C:\Users\Alien\OneDrive\Desktop\codes\src\bin\Release\src.exe.config
+C:\Users\Alien\OneDrive\Desktop\codes\src\bin\Release\src.exe
+C:\Users\Alien\OneDrive\Desktop\codes\src\bin\Release\src.pdb
+C:\Users\Alien\OneDrive\Desktop\codes\src\obj\Release\src.Register.resources
+C:\Users\Alien\OneDrive\Desktop\codes\src\obj\Release\src.formLogin.resources
+C:\Users\Alien\OneDrive\Desktop\codes\src\obj\Release\src.Properties.Resources.resources
+C:\Users\Alien\OneDrive\Desktop\codes\src\obj\Release\src.csproj.GenerateResource.cache
+C:\Users\Alien\OneDrive\Desktop\codes\src\obj\Release\src.csproj.CoreCompileInputs.cache
+C:\Users\Alien\OneDrive\Desktop\codes\src\obj\Release\src.exe
+C:\Users\Alien\OneDrive\Desktop\codes\src\obj\Release\src.pdb
