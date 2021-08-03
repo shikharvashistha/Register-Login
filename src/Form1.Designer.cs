@@ -219,7 +219,7 @@ namespace src
 
         private void textBoxUsername_TextChanged(object sender, EventArgs e)
         {
-            throw new NotImplementedException();
+            
         }
 
         #endregion

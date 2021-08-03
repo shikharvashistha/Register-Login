@@ -9,3 +9,14 @@ C:\Users\Alien\OneDrive\Desktop\codes\src\obj\Debug\src.csproj.CoreCompileInputs
 C:\Users\Alien\OneDrive\Desktop\codes\src\obj\Debug\src.exe
 C:\Users\Alien\OneDrive\Desktop\codes\src\obj\Debug\src.pdb
 C:\Users\Alien\OneDrive\Desktop\codes\src\obj\Debug\src.csproj.AssemblyReference.cache
+C:\Users\Alien\OneDrive\Desktop\codes\Register-Login\src\bin\Debug\src.exe.config
+C:\Users\Alien\OneDrive\Desktop\codes\Register-Login\src\bin\Debug\src.exe
+C:\Users\Alien\OneDrive\Desktop\codes\Register-Login\src\bin\Debug\src.pdb
+C:\Users\Alien\OneDrive\Desktop\codes\Register-Login\src\obj\Debug\src.csproj.AssemblyReference.cache
+C:\Users\Alien\OneDrive\Desktop\codes\Register-Login\src\obj\Debug\src.Register.resources
+C:\Users\Alien\OneDrive\Desktop\codes\Register-Login\src\obj\Debug\src.formLogin.resources
+C:\Users\Alien\OneDrive\Desktop\codes\Register-Login\src\obj\Debug\src.Properties.Resources.resources
+C:\Users\Alien\OneDrive\Desktop\codes\Register-Login\src\obj\Debug\src.csproj.GenerateResource.cache
+C:\Users\Alien\OneDrive\Desktop\codes\Register-Login\src\obj\Debug\src.csproj.CoreCompileInputs.cache
+C:\Users\Alien\OneDrive\Desktop\codes\Register-Login\src\obj\Debug\src.exe
+C:\Users\Alien\OneDrive\Desktop\codes\Register-Login\src\obj\Debug\src.pdb
