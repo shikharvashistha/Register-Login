@@ -7,6 +7,8 @@ User login and Registeration system using dotnet framework and Microsoft Access 
 
 #### Note: (CI can't be implemented as .NET Framework is not avaliable for github Actions)
 
+[![dotnet](https://github.com/shikharvashistha/Register-Login/actions/workflows/dotnet.yml/badge.svg?branch=main)](https://github.com/shikharvashistha/Register-Login/actions/workflows/dotnet.yml)
+
 # Screenshots
 - ![FIRST](asserts/1.png)
 - ![SECOND](asserts/2.png)

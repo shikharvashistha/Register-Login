@@ -1,0 +1,37 @@
+name: dotnet
+'on':
+  push: null
+  pull_request:
+    branches:
+      - main
+    paths:
+      - '**.cs'
+      - '**.csproj'
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup MSBuild
+        uses: microsoft/setup-msbuild@v1
+      - name: Setup NuGet
+        uses: NuGet/setup-nuget@v1.0.2
+      - name: Navigate to Workspace
+        run: cd $GITHUB_WORKSPACE
+      - name: Create Build Directory
+        working-directory: src/
+        run: mkdir _build
+      - name: Restore Packages
+        working-directory: src/
+        run: nuget restore src.sln
+      - name: Build Solution
+        working-directory: src/
+        run: >
+          msbuild.exe src.sln /nologo /nr:false /p:DeployOnBuild=true
+          /p:DeployDefaultTarget=WebPublish /p:WebPublishMethod=FileSystem
+          /p:DeleteExistingFiles=True /p:platform="Any CPU"
+          /p:configuration="Release" /p:PublishUrl="../_build"
+      - name: Build Solution
+        working-directory: src/
+        run: |
+          msbuild.exe src.sln /p:platform="Any CPU" /p:configuration="Release"
